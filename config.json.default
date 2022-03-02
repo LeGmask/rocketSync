@@ -1,0 +1,12 @@
+{
+	"GDRIVE": {
+		"RocketTempId": "",
+		"RocketSyncId": "",
+		"RocketCoursId": ""
+	},
+
+	"DISK": {
+		"prefix": "rocketNote",
+		"path": ""
+	}
+}
